@@ -1,0 +1,25 @@
+#result_object_name#result_object_accuracy{	color: yellow;}
+body{
+    background-color:lightblue;
+    
+}
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#result
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+.name_of_family_members
+{
+    color:orange;
+}
+hr{
+color: red;
+height: 10px;
+}
